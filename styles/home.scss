@@ -1,0 +1,151 @@
+@import "styles/variables";
+
+// HOME--------------------------------
+
+.homeImageContainer {
+     margin-left: -10px;
+     width: calc(100% + 20px);
+}
+
+.homeImage {
+    display: block; 
+    width: 100%; 
+    height: auto; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+
+// VOLUNTEER--------------------------------
+
+#pade3-slider1 {
+    width:calc(100% + 20px);
+    height:100%;
+    margin-left:-10px;
+}
+
+#page3-heading3 {
+    color:#000000;
+    text-align:center;
+}
+
+.slide1-imageBox {
+    margin: 0px; 
+    line-height: 250px; 
+    background-color: rgb(232, 235, 239); 
+    text-align: center;
+}
+
+#slide1-image {
+    font-size: 64px; 
+    color: rgb(136, 136, 136); 
+    vertical-align: middle;
+}
+
+.slide1-text {
+    color:#000000;
+}
+
+#page3-heading2 {
+    color:#000000;
+    text-align:center;
+}
+
+#slide2-image {
+    display: block; 
+    width: 100%; 
+    height: auto; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+#page3-heading4 {
+    color:#000000;
+    text-align:center;
+}
+
+#page3-markdown16 {
+    text-align:right
+}
+
+.slide2-text {
+    color:#000000;
+    font-size:15px;
+}
+
+#page3-heading1 {
+    color:#000000;
+    text-align:center;
+}
+
+.slide3-text {
+    color:#000000;
+}
+// SHOP--------------------------------
+
+.productImageBox {
+    margin: 0px; 
+    line-height: 250px; 
+    background-color: rgb(232, 235, 239); 
+    text-align: center;
+}
+
+#productImage {
+    font-size: 64px; 
+    color: rgb(136, 136, 136); 
+    vertical-align: middle;
+}
+
+.productInfo {
+    margin-top:0px;
+    color:#000000;
+}
+
+// PRODUCT INFO--------------------------------
+
+.productInfoImageBox {
+    margin: 0px; 
+    line-height: 250px; 
+    background-color: rgb(232, 235, 239); 
+    text-align: center;
+}
+
+#productInfoImage {
+    font-size: 64px; 
+    color: rgb(136, 136, 136); 
+    vertical-align: middle;
+}
+
+.productInfoDesc {
+    margin-top:0px;
+    color:#000000;
+}
+
+// SHOPPING CART--------------------------------
+
+
+
+
+// DONATE--------------------------------
+
+
+
+// SOCIAL MEDIA--------------------------------
+
+.socialImageBox {
+    margin: 0px; 
+    line-height: 250px; 
+    background-color: rgb(232, 235, 239); 
+    text-align: center;
+}
+
+#socialImage {
+    font-size: 64px; 
+    color: rgb(136, 136, 136); 
+    vertical-align: middle;
+}
+
+.socialPostContent {
+    margin-top:0px;
+    color:#000000;
+}

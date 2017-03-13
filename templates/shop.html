@@ -11,12 +11,12 @@
     </form>
     <div class="list card" id="shop-card21">
       <ion-item id="shop-list-item12" ui-sref="menu.ProductInfo">{{product.name}}</ion-item>
-      <div style="margin: 0px; line-height: 250px; background-color: rgb(232, 235, 239); text-align: center;">
-        <i class="icon ion-image" style="font-size: 64px; color: rgb(136, 136, 136); vertical-align: middle;"></i>
+      <div class='productImageBox'>
+        <i class="icon ion-image" id='productImage'></i>
       </div>
       <div class="item item-body" id="shop-list-item-container2">
         <div id="shop-markdown2" class="show-list-numbers-and-dots">
-          <p style="margin-top:0px;color:#000000;">{{product.desc}}</p>
+          <p class="productInfo">{{product.desc}}</p>
         </div>
       </div>
     </div>

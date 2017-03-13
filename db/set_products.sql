@@ -9,9 +9,9 @@ CREATE TABLE users
 );
 
 
-INSERT INTO users
-(name)
-VALUES ('test');
+-- INSERT INTO users
+-- (name)
+-- VALUES ('test');
 
 
 
@@ -22,9 +22,9 @@ CREATE TABLE orders
   completed BOOLEAN
 );
 
-INSERT INTO orders
-(completed)
-VALUES ('false');
+-- INSERT INTO orders
+-- (completed)
+-- VALUES ('false');
 
 
 
@@ -65,6 +65,6 @@ CREATE TABLE cart
 );
 
 
-INSERT INTO cart
-(quantity)
-VALUES (2);
+-- INSERT INTO cart
+-- (quantity)
+-- VALUES (2);
